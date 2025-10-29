@@ -27,7 +27,7 @@ ML Metrics/
 
 ## 🎯 Key Metrics Covered
 
-The project covers key metrics for evaluating hypothetical learning models:
+The project covers key metrics for evaluating machine learning models:
 
 - **Classification Metrics** - Metrics used to evaluate classification models
 - **Regression Metrics** - Metrics used to evaluate regression models
